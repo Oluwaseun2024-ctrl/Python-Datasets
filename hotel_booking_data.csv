@@ -1,0 +1,11 @@
+Booking_ID,Customer_Name,Room_Type,Booking_Date,Check_in,Check_out,Nights,Adults,Children,Total_Price,Payment_Method,Country
+B001,Alice,Deluxe,2023-06-01,2023-06-10,2023-06-12,2,2,1,200,Credit Card,USA
+B002,Bob,Standard,2023-06-03,2023-06-13,2023-06-16,3,1,0,150,Cash,USA
+B003,Charlie,Suite,2023-06-05,2023-06-20,2023-06-24,4,2,2,500,Credit Card,UK
+B004,Daisy,Deluxe,2023-06-07,2023-06-15,2023-06-18,3,2,1,250,Online,Canada
+B005,Ethan,Standard,2023-06-10,2023-06-20,2023-06-23,3,1,0,150,Cash,USA
+B006,Faith,Suite,2023-06-11,2023-06-22,2023-06-26,4,3,1,600,Online,Germany
+B007,George,Standard,2023-06-12,2023-06-22,2023-06-24,2,1,0,180,Credit Card,Canada
+B008,Helen,Deluxe,2023-06-13,2023-06-25,2023-06-27,2,2,1,220,Cash,UK
+B009,Isaac,Suite,2023-06-14,2023-06-28,2023-07-01,3,2,2,550,Online,Germany
+B010,Jane,Standard,2023-06-15,2023-06-29,2023-07-02,3,1,0,175,Credit Card,USA
